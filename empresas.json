@@ -1,0 +1,28 @@
+[
+    {
+        "id": "2",
+        "nombre": "Empresa B",
+        "descripcion": "Descripci\u00c3\u00b3n de Empresa B",
+        "fecha_creacion": "2024-07-08",
+        "direccion": "Direcci\u00c3\u00b3n Empresa B",
+        "telefono": "987654321",
+        "correo": "empresaB@gmail.com",
+        "gerente": "Gerente B",
+        "equipo_contacto": "Equipo B",
+        "proyectos": [
+            "1"
+        ]
+    },
+    {
+        "id": "3",
+        "nombre": "Empresa C",
+        "descripcion": "Descripci\u00c3\u00b3n de Empresa C",
+        "fecha_creacion": "2024-07-08",
+        "direccion": "Direcci\u00c3\u00b3n Empresa C",
+        "telefono": "555555555",
+        "correo": "empresaC@gmail.com",
+        "gerente": "Gerente C",
+        "equipo_contacto": "Equipo C",
+        "proyectos": []
+    }
+]
